@@ -1,4 +1,4 @@
-# articles
+# Articles
 
 ## Project setup
 ```
